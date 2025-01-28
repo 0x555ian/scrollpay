@@ -1,0 +1,22 @@
+{
+  "name": "scrollpay",
+  "version": "1.0.0",
+  "description": "ScrollPay an innovative, blockchain-based payment gateway that leverages Scroll's Ethereum Layer 2 infrastructure to provide fast, secure, and cost-efficient transactions globally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x555ian/scrollpay.git"
+  },
+  "keywords": [
+    "scrollpay"
+  ],
+  "author": "see Author page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x555ian/scrollpay/issues"
+  },
+  "homepage": "https://github.com/0x555ian/scrollpay#readme"
+}
